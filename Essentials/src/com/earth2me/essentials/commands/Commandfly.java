@@ -9,7 +9,7 @@ import static com.earth2me.essentials.I18n.tl;
 
 public class Commandfly extends EssentialsToggleCommand {
     public Commandfly() {
-        super("fly", "essentials.fly.others");
+        super("skyblockfly", "essentials.fly.others");
     }
 
     @Override
